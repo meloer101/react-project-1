@@ -11,9 +11,12 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.17",
+    "i": "^0.3.7",
     "lucide-react": "^0.555.0",
+    "npm": "^11.6.4",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
+    "react-syntax-highlighter": "^15.6.6",
     "tailwindcss": "^4.1.17"
   },
   "devDependencies": {
